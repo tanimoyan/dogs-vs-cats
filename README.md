@@ -46,7 +46,6 @@ dir.ipynbおよびmain.ipynbを実行すると処理が重くなるので、作�
 original_dogs_cats.h5ファイル、trainファイル、testファイルのサイズが大きいためgithubにpushできなかった。  
 そのため、Google Colaboratoryを参照していただきたい。
 
-
 # Requirement
  
 "main.ipyb "を動かすのに必要なライブラリ  
