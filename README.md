@@ -10,7 +10,8 @@
 # Features
 
 dir.ipynb  
-Kaggleコンペ(https://www.kaggle.com/c/dogs-vs-cats)　からデータセットをダウンロードして、学習用(train.zip)、検証用(test.zip)に分けるファイル  
+Kaggleコンペ(https://www.kaggle.com/c/dogs-vs-cats)　
+からデータセットをダウンロードして、学習用(train.zip)、検証用(test.zip)に分けるファイル  
 
 main.ipynb  
 dir.ipynbで作成したデータセットを用いてTensorFlowで学習および検証するファイル  
@@ -40,7 +41,7 @@ https://drive.google.com/drive/folders/1QnUMQJnTnlJ1PN6Ct4tj2sKsi7_6Yhbo?usp=sha
 
 dir.ipynbおよびmain.ipynbを実行すると処理が重くなるので、作成したモデルoriginal_dogs_cats.h5ファイルを用いていただけたら幸いです。
 
-演算処理性能の高いGoogle ColaboratoryのGPUを用いた。
+演算処理性能の高いGoogle ColaboratoryのGPUを用いました。
 
 original_dogs_cats.h5ファイル、trainファイル、testファイルのサイズが大きいためgithubにpushできなかった。  
 そのため、Google Colaboratoryを参照していただきたい。
